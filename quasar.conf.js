@@ -108,8 +108,8 @@ module.exports = function (/* ctx */) {
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: `Todo App`,
-        short_name: `Todo App`,
+        name: `Bharath Quasar App`,
+        short_name: `Bharath Quasar App`,
         description: `A Quasar Framework app`,
         display: 'standalone',
         orientation: 'portrait',
